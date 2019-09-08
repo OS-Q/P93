@@ -1,0 +1,26 @@
+{
+  "name": "Win32",
+  "title": "Win32",
+  "description": "Windows x86 32位 应用开发框架",
+  "url": "http://platformio.org/platforms/windows_x86",
+  "homepage": "http://platformio.org/platforms/windows_x86",
+  "license": "Apache-2.0",
+  "engines": {
+    "platformio": "<5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/platformio/platform-windows_x86.git"
+  },
+  "version": "1.0.0",
+  "packageRepositories": [
+    "https://dl.bintray.com/platformio/dl-packages/manifest.json",
+    "http://dl.platformio.org/packages/manifest.json"
+  ],
+  "packages": {
+    "toolchain-gccmingw32": {
+      "type": "toolchain",
+      "version": "^1"
+    }
+  }
+}
