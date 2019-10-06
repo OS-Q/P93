@@ -2,7 +2,7 @@
 #include <stdlib.h>
 int main()
 {
-    printf("Hello PlatformIO Win32!\n");
+    printf("Hello PlatformIO for Win32!\n");
     system("pause");
     return 0;
 }
