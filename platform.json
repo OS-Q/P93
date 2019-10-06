@@ -1,16 +1,16 @@
 {
-  "name": "Win32",
-  "title": "Win32",
-  "description": "Windows x86 32位应用开发框架",
+  "name": "H20",
+  "title": "H20",
+  "description": "Windows x86开发框架",
   "url": "http://platformio.org/platforms/windows_x86",
-  "homepage": "http://platformio.org/platforms/windows_x86",
+  "homepage": "https://github.com/OS-Q/H20",
   "license": " ",
   "engines": {
     "platformio": "<5"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/platformio/platform-windows_x86.git"
+    "url": "https://github.com/OS-Q/H20.git"
   },
   "version": "1.0.0",
   "packageRepositories": [
