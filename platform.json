@@ -1,16 +1,16 @@
 {
-  "name": "H20",
-  "title": "H20",
+  "name": "H17",
+  "title": "H17",
   "description": "Windows x86开发框架",
   "url": "http://platformio.org/platforms/windows_x86",
-  "homepage": "https://github.com/OS-Q/H20",
+  "homepage": "https://github.com/OS-Q/H17",
   "license": " ",
   "engines": {
     "platformio": "<5"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/OS-Q/H20.git"
+    "url": "https://github.com/OS-Q/H17.git"
   },
   "version": "1.0.0",
   "packageRepositories": [
