@@ -20,7 +20,7 @@
   "packages": {
     "toolchain-gccmingw32": {
       "type": "toolchain",
-      "version": "https://github.com/OS-Q/S13.git"
+      "version": "^1"
     }
   }
 }
