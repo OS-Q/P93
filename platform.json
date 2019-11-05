@@ -1,7 +1,7 @@
 {
   "name": "H17",
   "title": "H17",
-  "description": "Windows x86开发框架",
+  "description": "Windows开发平台",
   "url": "http://platformio.org/platforms/windows_x86",
   "homepage": "https://github.com/OS-Q/H17",
   "license": " ",
