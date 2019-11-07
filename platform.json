@@ -2,7 +2,7 @@
   "name": "H17",
   "title": "H17",
   "description": "Windows开发平台",
-  "url": "http://www.OS-Q.com/H17",
+  "url": "http://platformio.org/platforms/windows_x86",
   "homepage": "https://github.com/OS-Q/H17",
   "license": " ",
   "engines": {
@@ -14,8 +14,7 @@
   },
   "version": "1.0.0",
   "packageRepositories": [
-    // "https://dl.bintray.com/platformio/dl-packages/manifest.json",
-    // "http://dl.platformio.org/packages/manifest.json"
+    "http://182.61.61.133/dl/toolchain/manifest.json",
     "http://182.61.61.133/dl/manifest.json"
   ],
   "packages": {
