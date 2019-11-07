@@ -14,8 +14,9 @@
   },
   "version": "1.0.0",
   "packageRepositories": [
-    "http://182.61.61.133/dl/toolchain/manifest.json",
-    "http://182.61.61.133/dl/manifest.json"
+    "http://182.61.61.133/manifest/toolchain/manifest.json",
+    "http://182.61.61.133/manifest/framework/manifest.json",
+    "http://182.61.61.133/manifest/manifest.json"
   ],
   "packages": {
     "toolchain-gccmingw32": {
