@@ -1,10 +1,10 @@
 {
   "name": "H17",
   "title": "H17",
-  "description": "Windows开发平台",
-  "url": "http://platformio.org/platforms/windows_x86",
+  "description": "win32开发平台",
+  "url": "https://github.com/OS-Q/H17",
   "homepage": "https://github.com/OS-Q/H17",
-  "license": " ",
+  "license": "MIT",
   "engines": {
     "platformio": "<5"
   },
@@ -14,9 +14,12 @@
   },
   "version": "1.0.0",
   "packageRepositories": [
-    "http://182.61.61.133/manifest/toolchain/manifest.json",
-    "http://182.61.61.133/manifest/framework/manifest.json",
-    "http://182.61.61.133/manifest/manifest.json"
+    "http://182.61.61.133/link/toolchain/manifest.json",
+    "http://182.61.61.133/link/framework/manifest.json",
+    "http://182.61.61.133/link/platformio.json",
+    "https://dl.bintray.com/platformio/dl-packages/manifest.json",
+    "http://dl.platformio.org/packages/manifest.json",
+    "http://182.61.61.133/link/platform.json"
   ],
   "packages": {
     "toolchain-gccmingw32": {
