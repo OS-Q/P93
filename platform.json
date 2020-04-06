@@ -29,7 +29,7 @@
   "packages": {
     "toolchain-gccmingw32": {
       "type": "toolchain",
-      "version": "^1"
+      "version": ">=1.4.0"
     }
   }
 }
