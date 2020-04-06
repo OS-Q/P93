@@ -1,7 +1,7 @@
 ﻿# [Platform H17](https://github.com/OS-Q/H17)
 
 [![Build Status](https://travis-ci.com/OS-Q/H17.svg?branch=master)](https://travis-ci.com/OS-Q/H17)
-[![Build status](https://ci.appveyor.com/api/projects/status/7cly7p33jnotmgjv?svg=true)](https://ci.appveyor.com/project/Qitas/H17)
+[![Build status](https://ci.appveyor.com/api/projects/status/qkeljw6jav5cfpq0?svg=true)](https://ci.appveyor.com/project/Qitas/h17)
 
 [![sites](http://182.61.61.133/link/resources/OSQ.png)](http://www.OS-Q.com)
 
