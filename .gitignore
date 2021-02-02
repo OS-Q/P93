@@ -1,3 +1,5 @@
+*.db
 *.pyc
-.pio/
+__pycache__/
 .vscode/
+.pio/

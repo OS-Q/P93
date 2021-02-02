@@ -1,12 +1,9 @@
-﻿# [Platform H17](https://github.com/OS-Q/H17)
+﻿# [Platform P27](https://github.com/OS-Q/P27)
 
-[![Build Status](https://travis-ci.com/OS-Q/H17.svg?branch=master)](https://travis-ci.com/OS-Q/H17)
-[![Build status](https://ci.appveyor.com/api/projects/status/qkeljw6jav5cfpq0?svg=true)](https://ci.appveyor.com/project/Qitas/h17)
+[![Build Status](https://github.com/OS-Q/P27/workflows/P27/badge.svg)](https://github.com/OS-Q/P27/actions)
 
-[![sites](http://182.61.61.133/link/resources/OSQ.png)](http://www.OS-Q.com)
+### [Platform描述](https://github.com/OS-Q/P27/wiki)
 
-### [Platform描述](https://github.com/OS-Q/H17/wiki) 
+[Platform P27](https://github.com/OS-Q/P27) 基于[PlatformIO](https://github.com/platformio/platformio-core)开发框架，用于构建win32应用
 
-[Platform H17](https://github.com/OS-Q/H17) 是基于PlatformIO开发平台的基础框架，构建win32应用
-
-### [OS-Q = Open Solutions | Open Source |  Operating System ](http://www.OS-Q.com/H17)
+### [OS-Q = Open Solutions | Open Source |  Operating System ](http://www.OS-Q.com/P27)

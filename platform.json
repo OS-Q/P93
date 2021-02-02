@@ -1,24 +1,23 @@
 {
-  "name": "H17",
-  "title": "H17",
+  "name": "P27",
+  "title": "Platform P27",
   "description": "Windows x86 (32bit) software",
-  "url": "https://github.com/OS-Q/H17",
-  "homepage": "http://OS-Q.com/H17",
+  "homepage": "http://OS-Q.com/P27",
   "license": "Apache-2.0",
+  "keywords": [
+    "OS-Q",
+    "dev-platform",
+    "Windows",
+    "x86"
+  ],
+  "version": "1.1.3",
   "engines": {
-    "platformio": "<5"
+    "platformio": "^5"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/OS-Q/H17.git"
+    "url": "https://github.com/OS-Q/P27.git"
   },
-  "authors": [{
-    "name": "qitas",
-    "email": "qitas@qitas.cn",
-    "url": "http://www.qitas.cn"
-  }],
-  "keywords": "H17,win32",
-  "version": "1.1.3",
   "packageRepositories": [
     "http://182.61.61.133/link/toolchain/manifest.json",
     "http://182.61.61.133/link/toolchain/openocd.json",
@@ -29,7 +28,8 @@
   "packages": {
     "toolchain-gccmingw32": {
       "type": "toolchain",
-      "version": ">=1.4.0"
+      "owner": "platformio",
+      "version": "^1"
     }
   }
 }
