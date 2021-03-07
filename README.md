@@ -1,10 +1,10 @@
-﻿# [Platform P27](https://github.com/OS-Q/P27)
+﻿# [P93](https://github.com/OS-Q/P93)
 
-[![Build Status](https://github.com/OS-Q/P27/workflows/P27/badge.svg)](https://github.com/OS-Q/P27/actions)
+[![Build Status](https://github.com/OS-Q/P93/workflows/P93/badge.svg)](https://github.com/OS-Q/P93/actions)
 
-### [Platform描述](https://github.com/OS-Q/P27/wiki)
+### [简介](https://github.com/OS-Q/P93/wiki)
 
-[Platform P27](https://github.com/OS-Q/P27) 基于[PlatformIO](https://github.com/platformio/platformio-core)开发框架，用于构建win32应用
+[P93](https://github.com/OS-Q/P93) 用于构建win32应用
 
 * [文档](http://docs.os-q.com/platforms/windows_x86.html)
 

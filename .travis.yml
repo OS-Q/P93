@@ -4,6 +4,7 @@ python:
 
 env:
   - PLATFORMIO_PROJECT_DIR=examples/hello
+  - PLATFORMIO_PROJECT_DIR=examples/window
 
 install:
   - pip install -U https://github.com/OS-Q/S03/archive/master.zip

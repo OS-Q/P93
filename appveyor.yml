@@ -3,6 +3,7 @@ environment:
 
   matrix:
     - PLATFORMIO_PROJECT_DIR: "examples/hello"
+    - PLATFORMIO_PROJECT_DIR: "examples/window"
 
 install:
   - cmd: git submodule update --init --recursive

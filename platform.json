@@ -1,8 +1,8 @@
 {
-  "name": "P27",
-  "title": "Platform P27",
+  "name": "P93",
+  "title": "Platform P93",
   "description": "Windows x86 (32bit) software",
-  "homepage": "http://OS-Q.com/P27",
+  "homepage": "http://OS-Q.com/P93",
   "license": "Apache-2.0",
   "keywords": [
     "OS-Q",
@@ -16,15 +16,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/OS-Q/P27.git"
+    "url": "https://github.com/OS-Q/P93.git"
   },
-  "packageRepositories": [
-    "http://182.61.61.133/link/toolchain/manifest.json",
-    "http://182.61.61.133/link/toolchain/openocd.json",
-    "http://182.61.61.133/link/framework/manifest.json",
-    "http://182.61.61.133/link/platformio.json",
-    "http://182.61.61.133/link/platform.json"
-  ],
   "packages": {
     "toolchain-gccmingw32": {
       "type": "toolchain",
